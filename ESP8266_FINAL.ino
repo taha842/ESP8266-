@@ -1,3 +1,6 @@
+// Engr.Muhammad Taha
+// 0330-8530186
+// REX Electric Service
 #include<SoftwareSerial.h>
 SoftwareSerial mySerial(2,3); //setting Tx and Rx pins
 
